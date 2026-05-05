@@ -62,14 +62,7 @@ I enjoy solving problems, improving workflows, and continuously learning. 🚀
 I'm always open to collaboration and new opportunities.  
 Feel free to reach out via email at <a target="_blank" href="mailto:dickydns1@gmail.com">**dickydns1@gmail.com**</a> or connect with me on <a target="_blank" href="https://www.linkedin.com/in/dickydns/">**LinkedIn**</a>.
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=fff&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Playground" />
-
-
-<p align="center">
-  <img src="img/github-contribution-grid-snake.svg" />
-</p>
+<img src="img/github-contribution-grid-snake.svg" width="100%"/>
 
 ---
 
