@@ -57,7 +57,7 @@ I enjoy solving problems, improving workflows, and continuously learning. 🚀
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=fff&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Contribute" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=fff&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Playground" />
 
 
 <p align="center">
