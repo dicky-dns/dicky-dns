@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Dicky DNS</h1>
+<p align="center">💻 Fullstack Web Developer</p>
 
-<!--
-**dicky-dns/dicky-dns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
+Hello! 👋 I’m Dicky, based in Surakarta — Indonesia.  
+I build reliable, maintainable web applications from frontend to backend.  
+I enjoy solving problems, improving workflows, and continuously learning. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Profile
+- Web dev — frontend & backend  
+- Clean & scalable builds  
+- Strong problem solver  
+- Performance-minded  
+- Fast learner & adapter  
+- Solo or team player  
+
+---
+
+## 🧰 Built With
+- Web: HTML5, CSS  
+- Styling: Tailwind, Bootstrap  
+- Frontend: Vue, Next.js, jQuery  
+- Backend: PHP (Laravel, CodeIgniter)  
+- Database: MySQL, PostgreSQL, SQLite  
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dicky-dns&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">⚡ Dicky DNS ⚡</p>
