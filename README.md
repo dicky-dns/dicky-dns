@@ -41,10 +41,6 @@ I enjoy solving problems, improving workflows, and continuously learning. 🚀
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dicky-dns&theme=dark&hide_border=true" width="100%"/>
-
-</br>
-
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="33%">
