@@ -1,7 +1,8 @@
 <h1 align="center">Dicky DNS</h1>
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Clean+Code+Builder;Scalable+System+Designer)](https://git.io/typing-svg)
-</p>
+<br>
+
+[![Profile Views](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Clean+Code+Builder;Scalable+System+Designer)](https://git.io/typing-svg)
+
 
 ---
 
