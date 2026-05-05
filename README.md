@@ -37,23 +37,17 @@ I enjoy solving problems, improving workflows, and continuously learning. 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=fff&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Profile+Summary" />
 
+<p align="center" style="margin-bottom: 0;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dicky-dns&theme=dark" width="100%"/>
+</p>
 
-<br/>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dicky-dns&theme=dark" width="100%"/>
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dicky-dns&theme=dark" width="100%"/>
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dicky-dns&theme=dark&utcOffset=7" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dicky-dns&theme=dark" width="33%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dicky-dns&theme=dark" width="33%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dicky-dns&theme=dark&utcOffset=7" width="33%"/>
+</p>
 
 ---
 
